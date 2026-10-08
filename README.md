@@ -1,9 +1,6 @@
 # Léo WEE
 
-**[@Koloyaaa](https://github.com/Koloyaaa)** · AI Agents · AIGC · Product Building  
-中文 · English · Français
-
-<details open>
+<details>
 <summary>🇨🇳 中文</summary>
 
 ### 关于我
