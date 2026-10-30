@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0969DA,100:54AEFF&amp;height=180&amp;section=header&amp;text=L%C3%A9o%20WEE&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=36">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0969DA,100:54AEFF&amp;height=180&amp;section=header&amp;text=L%C3%A9o%20WEE&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=36">
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0969DA,100:54AEFF&amp;height=180&amp;section=header&amp;text=L%C3%A9o%20WEE&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=36" width="100%" alt="Léo WEE">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0969DA&amp;height=180&amp;section=header&amp;text=L%C3%A9o%20WEE&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;cache=20261030" width="100%" alt="Léo WEE">
 </p>
 
 <p align="center">
