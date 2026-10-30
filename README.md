@@ -1,18 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:1F6FEB&amp;height=180&amp;section=header&amp;text=L%C3%A9o%20WEE&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=36">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0969DA,100:54AEFF&amp;height=180&amp;section=header&amp;text=L%C3%A9o%20WEE&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=36">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0969DA,100:54AEFF&amp;height=180&amp;section=header&amp;text=L%C3%A9o%20WEE&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=36">
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:1F6FEB&amp;height=180&amp;section=header&amp;text=L%C3%A9o%20WEE&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=36" width="100%" alt="Léo WEE">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0969DA,100:54AEFF&amp;height=180&amp;section=header&amp;text=L%C3%A9o%20WEE&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=36" width="100%" alt="Léo WEE">
   </picture>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Koloyaaa">
-    <img src="https://github.com/Koloyaaa.png" width="108" alt="Profile avatar">
-  </a>
-</p>
-
-<h1 align="center">Léo WEE</h1>
 
 <p align="center">
   <strong>让想法真正落地，让技术创造价值。</strong>
