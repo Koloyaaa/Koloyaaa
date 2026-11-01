@@ -17,7 +17,7 @@
 ---
 
 <a id="language-zh"></a>
-<details open>
+<details>
 <summary><strong>🇨🇳 中文</strong></summary>
 
 ## 👋 关于我
