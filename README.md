@@ -60,7 +60,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/Koloyaaa/foreign-academic-translator-skill">
-  <img src="https://raw.githubusercontent.com/Koloyaaa/foreign-academic-translator-skill/main/assets/showcase/thermodynamics-chapter4-reader-v3.png" width="100%" alt="外文讲义翻译工具展示">
+  <img src="https://raw.githubusercontent.com/Koloyaaa/foreign-academic-translator-skill/main/assets/showcase/thermodynamics-reader-overview.png" width="100%" alt="外文讲义翻译工具展示">
 </a>
 
 <h3>📚 外文讲义翻译 Skill</h3>
@@ -217,7 +217,7 @@ I'm also involved in research projects related to **Unity, virtual reality, and 
 <td width="50%" valign="top">
 
 <a href="https://github.com/Koloyaaa/foreign-academic-translator-skill">
-  <img src="https://raw.githubusercontent.com/Koloyaaa/foreign-academic-translator-skill/main/assets/showcase/thermodynamics-chapter4-reader-v3.png" width="100%" alt="Foreign Academic Translator Skill showcase">
+  <img src="https://raw.githubusercontent.com/Koloyaaa/foreign-academic-translator-skill/main/assets/showcase/thermodynamics-reader-overview.png" width="100%" alt="Foreign Academic Translator Skill showcase">
 </a>
 
 <h3>📚 Foreign Academic Translator Skill</h3>
@@ -374,7 +374,7 @@ Je participe également à des projets de recherche liés à **Unity, à la réa
 <td width="50%" valign="top">
 
 <a href="https://github.com/Koloyaaa/foreign-academic-translator-skill">
-  <img src="https://raw.githubusercontent.com/Koloyaaa/foreign-academic-translator-skill/main/assets/showcase/thermodynamics-chapter4-reader-v3.png" width="100%" alt="Présentation de Foreign Academic Translator Skill">
+  <img src="https://raw.githubusercontent.com/Koloyaaa/foreign-academic-translator-skill/main/assets/showcase/thermodynamics-reader-overview.png" width="100%" alt="Présentation de Foreign Academic Translator Skill">
 </a>
 
 <h3>📚 Foreign Academic Translator Skill</h3>
