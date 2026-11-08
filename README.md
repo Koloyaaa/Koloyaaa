@@ -42,8 +42,11 @@
 - 🌐 人工智能驱动的网页应用、浏览器扩展与开发者工具
 - 🎮 人工智能驱动或辅助创作的游戏与交互式体验
 - 🥽 Unity、虚拟现实与沉浸式交互
+- 🗺️ 交互式地图、矢量化与数据可视化
 
 目前也参与与 **Unity、虚拟现实和生成式人工智能** 相关的科研项目。
+
+近期，我将更多精力放在**可跨开发环境复用的 Agent Skills**、工具可靠性与开源贡献上，注重可验证的修复和清晰的文档。
 
 ---
 
@@ -65,12 +68,16 @@
 
 <h3>📚 外文讲义翻译 Skill</h3>
 
+<p><img src="https://img.shields.io/badge/版本-V3.1.3-238636?style=flat-square" alt="V3.1.3"></p>
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/智能体技能-6F42C1?style=flat-square" alt="智能体技能">
 </p>
 
-面向人工智能智能体的课程资料处理工具，将英语、法语等外文材料整理为中文学习资料，提供专业术语辅助、内容整理与多种格式导出。
+遵循 Agent Skills 标准的外文讲义处理工具，可在多种智能体开发环境中复用。支持七大学科术语表、英法等语言课程材料整理、HTML / DOCX / Markdown 导出，并注重不可信文档内容的安全边界。
+
+<p><sub>🏅 已收录于 <a href="https://github.com/VoltAgent/awesome-agent-skills">VoltAgent / awesome-agent-skills</a> 与 <a href="https://github.com/StudentSuite/awesome-skills-plugins-for-students">StudentSuite / awesome-skills-plugins-for-students</a></sub></p>
 
 <p><a href="https://github.com/Koloyaaa/foreign-academic-translator-skill">📖 查看项目 →</a></p>
 
@@ -118,10 +125,12 @@
 
 参与其他开源项目的代码修复、安全改进和文档完善，注重让每一项改动都有明确的问题背景与可核验的结果。
 
-| 项目 | 贡献内容 |
+| 项目 | 已合并的贡献 |
 | --- | --- |
-| [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | **命令行安全与可靠性：** 为通道通配符开放访问增加确认门禁，并改进终端交互检查。 |
-| [cognicore-dev/cognicore-env #168](https://github.com/cognicore-dev/cognicore-env/pull/168) | **文档改进：** 修正扩展开发教程与当前接口的不一致之处，并核验示例。 |
+| [EverMind-AI/Raven #1163](https://github.com/EverMind-AI/Raven/pull/1163) | **命令行可靠性：** 为 WhatsApp 交互登录增加 300 秒超时、过程提示和清理逻辑。 |
+| [cognicore-dev/cognicore-env #187](https://github.com/cognicore-dev/cognicore-env/pull/187) | **存储与检索修复：** 修正 SQLite 搜索返回已归档或软删除记忆的问题，并补充测试。 |
+| [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | **命令行安全：** 为通道通配符开放访问增加确认门禁，并改进终端交互检查。 |
+| [cognicore-dev/cognicore-env #168](https://github.com/cognicore-dev/cognicore-env/pull/168) | **文档改进：** 使扩展开发教程与实际接口一致，并核验示例。 |
 | [Feeesack/codex-maid-widget #4](https://github.com/Feeesack/codex-maid-widget/pull/4) | **文档维护：** 更新受支持版本说明与相关文档链接。 |
 
 ---
@@ -199,8 +208,11 @@ I enjoy turning ideas into usable products — from requirements analysis and pr
 - 🌐 AI-powered web applications, browser extensions, and developer tools
 - 🎮 AI-driven or AI-assisted game creation and interactive experiences
 - 🥽 Unity, virtual reality, and immersive interaction
+- 🗺️ Interactive maps, vectorization, and data visualization
 
 I'm also involved in research projects related to **Unity, virtual reality, and generative AI**.
+
+Recently, I've been focusing more on **portable Agent Skills**, tool reliability, and open-source contributions, with an emphasis on verifiable fixes and clear documentation.
 
 ---
 
@@ -222,12 +234,16 @@ I'm also involved in research projects related to **Unity, virtual reality, and 
 
 <h3>📚 Foreign Academic Translator Skill</h3>
 
+<p><img src="https://img.shields.io/badge/Version-V3.1.3-238636?style=flat-square" alt="V3.1.3"></p>
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Agent%20Skills-6F42C1?style=flat-square" alt="Agent Skills">
 </p>
 
-An AI agent skill for processing academic materials. It transforms course content in English, French, and other languages into structured Chinese learning resources, with terminology assistance, content organization, and multiple export formats.
+An Agent Skills-compatible tool for turning foreign-language course materials into Chinese study resources across different agent environments. It includes glossaries for seven disciplines, HTML / DOCX / Markdown export, and explicit trust boundaries for untrusted document content.
+
+<p><sub>🏅 Listed in <a href="https://github.com/VoltAgent/awesome-agent-skills">VoltAgent / awesome-agent-skills</a> and <a href="https://github.com/StudentSuite/awesome-skills-plugins-for-students">StudentSuite / awesome-skills-plugins-for-students</a></sub></p>
 
 <p><a href="https://github.com/Koloyaaa/foreign-academic-translator-skill">📖 View project →</a></p>
 
@@ -275,11 +291,13 @@ A browser-based merge game featuring AI model characters, physics-based collisio
 
 I contribute bug fixes, security improvements, and documentation updates to open-source projects. I value changes with clear problem statements and verifiable outcomes.
 
-| Project | Contribution |
+| Project | Merged contribution |
 | --- | --- |
-| [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | **CLI security and reliability:** Added a confirmation gate for wildcard channel access and improved terminal interaction checks. |
-| [cognicore-dev/cognicore-env #168](https://github.com/cognicore-dev/cognicore-env/pull/168) | **Documentation:** Updated extension tutorials to match the current APIs and verified the examples. |
-| [Feeesack/codex-maid-widget #4](https://github.com/Feeesack/codex-maid-widget/pull/4) | **Documentation maintenance:** Updated supported-release information and related documentation links. |
+| [EverMind-AI/Raven #1163](https://github.com/EverMind-AI/Raven/pull/1163) | **CLI reliability:** Added a 300-second timeout, progress hints, and cleanup for interactive WhatsApp login. |
+| [cognicore-dev/cognicore-env #187](https://github.com/cognicore-dev/cognicore-env/pull/187) | **Storage and retrieval fix:** Prevented archived or soft-deleted memories from appearing in SQLite search, with regression tests. |
+| [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | **CLI security:** Added a confirmation gate for wildcard channel access and improved TTY checks. |
+| [cognicore-dev/cognicore-env #168](https://github.com/cognicore-dev/cognicore-env/pull/168) | **Documentation:** Aligned extension tutorials with the actual APIs and checked examples. |
+| [Feeesack/codex-maid-widget #4](https://github.com/Feeesack/codex-maid-widget/pull/4) | **Documentation maintenance:** Updated supported-release references and related links. |
 
 ---
 
@@ -356,8 +374,11 @@ J'aime transformer des idées en produits réellement utilisables : de l'analyse
 - 🌐 Applications web, extensions de navigateur et outils pour développeurs propulsés par l'IA
 - 🎮 Création de jeux assistée par l'IA et expériences interactives
 - 🥽 Unity, réalité virtuelle et interactions immersives
+- 🗺️ Cartographie interactive, vectorisation et visualisation de données
 
 Je participe également à des projets de recherche liés à **Unity, à la réalité virtuelle et à l'IA générative**.
+
+Ces derniers temps, je me concentre davantage sur les **Agent Skills réutilisables entre plusieurs environnements**, la fiabilité des outils et les contributions open source, avec une attention particulière aux correctifs vérifiables et à la documentation claire.
 
 ---
 
@@ -379,12 +400,16 @@ Je participe également à des projets de recherche liés à **Unity, à la réa
 
 <h3>📚 Foreign Academic Translator Skill</h3>
 
+<p><img src="https://img.shields.io/badge/Version-V3.1.3-238636?style=flat-square" alt="V3.1.3"></p>
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Agent%20Skills-6F42C1?style=flat-square" alt="Agent Skills">
 </p>
 
-Un outil destiné aux agents IA pour traiter des supports académiques. Il transforme des cours en anglais, en français et dans d'autres langues en ressources pédagogiques structurées en chinois, avec aide terminologique, organisation du contenu et plusieurs formats d'exportation.
+Un outil compatible avec le standard Agent Skills pour transformer des supports de cours en langues étrangères en ressources pédagogiques en chinois. Il comprend des glossaires dans sept disciplines, l'exportation HTML / DOCX / Markdown et des règles explicites pour traiter les documents non fiables.
+
+<p><sub>🏅 Référencé dans <a href="https://github.com/VoltAgent/awesome-agent-skills">VoltAgent / awesome-agent-skills</a> et <a href="https://github.com/StudentSuite/awesome-skills-plugins-for-students">StudentSuite / awesome-skills-plugins-for-students</a></sub></p>
 
 <p><a href="https://github.com/Koloyaaa/foreign-academic-translator-skill">📖 Voir le projet →</a></p>
 
@@ -432,11 +457,13 @@ Un jeu de fusion dans le navigateur mettant en scène des personnages inspirés 
 
 Je contribue à des projets open source par des corrections de bugs, des améliorations de sécurité et des mises à jour documentaires. Je privilégie les modifications dont le problème est clairement défini et dont le résultat peut être vérifié.
 
-| Projet | Contribution |
+| Projet | Contribution fusionnée |
 | --- | --- |
-| [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | **Sécurité et fiabilité de la CLI :** ajout d'une confirmation pour l'accès global aux canaux et amélioration des contrôles d'interaction avec le terminal. |
-| [cognicore-dev/cognicore-env #168](https://github.com/cognicore-dev/cognicore-env/pull/168) | **Documentation :** mise à jour des tutoriels d'extension pour les adapter aux API actuelles et vérification des exemples. |
-| [Feeesack/codex-maid-widget #4](https://github.com/Feeesack/codex-maid-widget/pull/4) | **Maintenance documentaire :** actualisation des versions prises en charge et des liens vers la documentation. |
+| [EverMind-AI/Raven #1163](https://github.com/EverMind-AI/Raven/pull/1163) | **Fiabilité de la CLI :** ajout d'un délai de 300 secondes, de rappels et d'un nettoyage pour la connexion WhatsApp interactive. |
+| [cognicore-dev/cognicore-env #187](https://github.com/cognicore-dev/cognicore-env/pull/187) | **Stockage et recherche :** exclusion des souvenirs archivés ou supprimés logiquement des résultats SQLite, avec tests de régression. |
+| [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | **Sécurité de la CLI :** ajout d'une confirmation pour les accès ouverts à tous et amélioration des contrôles du terminal. |
+| [cognicore-dev/cognicore-env #168](https://github.com/cognicore-dev/cognicore-env/pull/168) | **Documentation :** mise en conformité des tutoriels avec les API existantes et vérification des exemples. |
+| [Feeesack/codex-maid-widget #4](https://github.com/Feeesack/codex-maid-widget/pull/4) | **Maintenance documentaire :** mise à jour des versions prises en charge et des liens associés. |
 
 ---
 
