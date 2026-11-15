@@ -110,15 +110,15 @@
 
 参与其他开源项目的代码修复、安全改进和文档完善，注重让每一项改动都有明确的问题背景与可核验的结果。
 
-| 项目 | 已合并的贡献 |
-| --- | --- |
-| [Cygnux-Labs/Tracekit #805](https://github.com/Cygnux-Labs/Tracekit/pull/805) | **智能体工具安全与兼容性：** 适配 Browser Use 1.0，对函数工具及 REPL 执行实施授权校验、追踪与脱敏，并补充兼容性及回归测试。 |
-| [iammrduncan/thermite #67](https://github.com/iammrduncan/thermite/pull/67) | **模型成本计量：** 支持提示词缓存写入的独立定价、跨多种 Agent Harness 的用量采集及未报告写入量的统计。 |
-| [EverMind-AI/Raven #1163](https://github.com/EverMind-AI/Raven/pull/1163) | **命令行可靠性：** 为 WhatsApp 交互登录增加 300 秒超时、过程提示和清理逻辑。 |
-| [cognicore-dev/cognicore-env #187](https://github.com/cognicore-dev/cognicore-env/pull/187) | **存储与检索修复：** 修正 SQLite 搜索返回已归档或软删除记忆的问题，并补充测试。 |
-| [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | **命令行安全：** 为通道通配符开放访问增加确认门禁，并改进终端交互检查。 |
-| [cognicore-dev/cognicore-env #168](https://github.com/cognicore-dev/cognicore-env/pull/168) | **文档改进：** 使扩展开发教程与实际接口一致，并核验示例。 |
-| [Feeesack/codex-maid-widget #4](https://github.com/Feeesack/codex-maid-widget/pull/4) | **文档维护：** 更新受支持版本说明与相关文档链接。 |
+| 项目 | Stars | 已合并的贡献 |
+| --- | ---: | --- |
+| [Cygnux-Labs/Tracekit #805](https://github.com/Cygnux-Labs/Tracekit/pull/805) | [![Stars](https://img.shields.io/github/stars/Cygnux-Labs/Tracekit?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/Cygnux-Labs/Tracekit/stargazers) | **智能体工具安全与兼容性：** 适配 Browser Use 1.0，对函数工具及 REPL 执行实施授权校验、追踪与脱敏，并补充兼容性及回归测试。 |
+| [iammrduncan/thermite #67](https://github.com/iammrduncan/thermite/pull/67) | [![Stars](https://img.shields.io/github/stars/iammrduncan/thermite?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/iammrduncan/thermite/stargazers) | **模型成本计量：** 支持提示词缓存写入的独立定价、跨多种 Agent Harness 的用量采集及未报告写入量的统计。 |
+| [EverMind-AI/Raven #1163](https://github.com/EverMind-AI/Raven/pull/1163) | [![Stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/EverMind-AI/Raven/stargazers) | **命令行可靠性：** 为 WhatsApp 交互登录增加 300 秒超时、过程提示和清理逻辑。 |
+| [cognicore-dev/cognicore-env #187](https://github.com/cognicore-dev/cognicore-env/pull/187) | [![Stars](https://img.shields.io/github/stars/cognicore-dev/cognicore-env?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/cognicore-dev/cognicore-env/stargazers) | **存储与检索修复：** 修正 SQLite 搜索返回已归档或软删除记忆的问题，并补充测试。 |
+| [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | [![Stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/EverMind-AI/Raven/stargazers) | **命令行安全：** 为通道通配符开放访问增加确认门禁，并改进终端交互检查。 |
+| [cognicore-dev/cognicore-env #168](https://github.com/cognicore-dev/cognicore-env/pull/168) | [![Stars](https://img.shields.io/github/stars/cognicore-dev/cognicore-env?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/cognicore-dev/cognicore-env/stargazers) | **文档改进：** 使扩展开发教程与实际接口一致，并核验示例。 |
+| [Feeesack/codex-maid-widget #4](https://github.com/Feeesack/codex-maid-widget/pull/4) | [![Stars](https://img.shields.io/github/stars/Feeesack/codex-maid-widget?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/Feeesack/codex-maid-widget/stargazers) | **文档维护：** 更新受支持版本说明与相关文档链接。 |
 
 ---
 
@@ -277,15 +277,15 @@ A browser-based merge game featuring AI model characters, physics-based collisio
 
 I contribute bug fixes, security improvements, and documentation updates to open-source projects. I value changes with clear problem statements and verifiable outcomes.
 
-| Project | Merged contribution |
-| --- | --- |
-| [Cygnux-Labs/Tracekit #805](https://github.com/Cygnux-Labs/Tracekit/pull/805) | **Agent tool security and compatibility:** Adapted Browser Use 1.0, adding authorization, tracing and secret masking for function tools and REPL execution, with compatibility and regression tests. |
-| [iammrduncan/thermite #67](https://github.com/iammrduncan/thermite/pull/67) | **Model cost accounting:** Added separate prompt-cache write pricing, usage collection across agent harnesses, and accounting for records without reported cache writes. |
-| [EverMind-AI/Raven #1163](https://github.com/EverMind-AI/Raven/pull/1163) | **CLI reliability:** Added a 300-second timeout, progress hints, and cleanup for interactive WhatsApp login. |
-| [cognicore-dev/cognicore-env #187](https://github.com/cognicore-dev/cognicore-env/pull/187) | **Storage and retrieval fix:** Prevented archived or soft-deleted memories from appearing in SQLite search, with regression tests. |
-| [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | **CLI security:** Added a confirmation gate for wildcard channel access and improved TTY checks. |
-| [cognicore-dev/cognicore-env #168](https://github.com/cognicore-dev/cognicore-env/pull/168) | **Documentation:** Aligned extension tutorials with the actual APIs and checked examples. |
-| [Feeesack/codex-maid-widget #4](https://github.com/Feeesack/codex-maid-widget/pull/4) | **Documentation maintenance:** Updated supported-release references and related links. |
+| Project | Stars | Merged contribution |
+| --- | ---: | --- |
+| [Cygnux-Labs/Tracekit #805](https://github.com/Cygnux-Labs/Tracekit/pull/805) | [![Stars](https://img.shields.io/github/stars/Cygnux-Labs/Tracekit?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/Cygnux-Labs/Tracekit/stargazers) | **Agent tool security and compatibility:** Adapted Browser Use 1.0, adding authorization, tracing and secret masking for function tools and REPL execution, with compatibility and regression tests. |
+| [iammrduncan/thermite #67](https://github.com/iammrduncan/thermite/pull/67) | [![Stars](https://img.shields.io/github/stars/iammrduncan/thermite?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/iammrduncan/thermite/stargazers) | **Model cost accounting:** Added separate prompt-cache write pricing, usage collection across agent harnesses, and accounting for records without reported cache writes. |
+| [EverMind-AI/Raven #1163](https://github.com/EverMind-AI/Raven/pull/1163) | [![Stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/EverMind-AI/Raven/stargazers) | **CLI reliability:** Added a 300-second timeout, progress hints, and cleanup for interactive WhatsApp login. |
+| [cognicore-dev/cognicore-env #187](https://github.com/cognicore-dev/cognicore-env/pull/187) | [![Stars](https://img.shields.io/github/stars/cognicore-dev/cognicore-env?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/cognicore-dev/cognicore-env/stargazers) | **Storage and retrieval fix:** Prevented archived or soft-deleted memories from appearing in SQLite search, with regression tests. |
+| [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | [![Stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/EverMind-AI/Raven/stargazers) | **CLI security:** Added a confirmation gate for wildcard channel access and improved TTY checks. |
+| [cognicore-dev/cognicore-env #168](https://github.com/cognicore-dev/cognicore-env/pull/168) | [![Stars](https://img.shields.io/github/stars/cognicore-dev/cognicore-env?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/cognicore-dev/cognicore-env/stargazers) | **Documentation:** Aligned extension tutorials with the actual APIs and checked examples. |
+| [Feeesack/codex-maid-widget #4](https://github.com/Feeesack/codex-maid-widget/pull/4) | [![Stars](https://img.shields.io/github/stars/Feeesack/codex-maid-widget?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/Feeesack/codex-maid-widget/stargazers) | **Documentation maintenance:** Updated supported-release references and related links. |
 
 ---
 
@@ -444,15 +444,15 @@ Un jeu de fusion dans le navigateur mettant en scène des personnages inspirés 
 
 Je contribue à des projets open source par des corrections de bugs, des améliorations de sécurité et des mises à jour documentaires. Je privilégie les modifications dont le problème est clairement défini et dont le résultat peut être vérifié.
 
-| Projet | Contribution fusionnée |
-| --- | --- |
-| [Cygnux-Labs/Tracekit #805](https://github.com/Cygnux-Labs/Tracekit/pull/805) | **Sécurité et compatibilité des outils d'agents :** adaptation à Browser Use 1.0, avec contrôle des autorisations, traçabilité et masquage des secrets pour les outils et le REPL, ainsi que des tests de compatibilité et de régression. |
-| [iammrduncan/thermite #67](https://github.com/iammrduncan/thermite/pull/67) | **Calcul des coûts des modèles :** tarification distincte des écritures dans le cache des prompts, collecte des usages de plusieurs environnements d'agents et comptabilisation des enregistrements sans volume d'écriture déclaré. |
-| [EverMind-AI/Raven #1163](https://github.com/EverMind-AI/Raven/pull/1163) | **Fiabilité de la CLI :** ajout d'un délai de 300 secondes, de rappels et d'un nettoyage pour la connexion WhatsApp interactive. |
-| [cognicore-dev/cognicore-env #187](https://github.com/cognicore-dev/cognicore-env/pull/187) | **Stockage et recherche :** exclusion des souvenirs archivés ou supprimés logiquement des résultats SQLite, avec tests de régression. |
-| [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | **Sécurité de la CLI :** ajout d'une confirmation pour les accès ouverts à tous et amélioration des contrôles du terminal. |
-| [cognicore-dev/cognicore-env #168](https://github.com/cognicore-dev/cognicore-env/pull/168) | **Documentation :** mise en conformité des tutoriels avec les API existantes et vérification des exemples. |
-| [Feeesack/codex-maid-widget #4](https://github.com/Feeesack/codex-maid-widget/pull/4) | **Maintenance documentaire :** mise à jour des versions prises en charge et des liens associés. |
+| Projet | Stars | Contribution fusionnée |
+| --- | ---: | --- |
+| [Cygnux-Labs/Tracekit #805](https://github.com/Cygnux-Labs/Tracekit/pull/805) | [![Stars](https://img.shields.io/github/stars/Cygnux-Labs/Tracekit?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/Cygnux-Labs/Tracekit/stargazers) | **Sécurité et compatibilité des outils d'agents :** adaptation à Browser Use 1.0, avec contrôle des autorisations, traçabilité et masquage des secrets pour les outils et le REPL, ainsi que des tests de compatibilité et de régression. |
+| [iammrduncan/thermite #67](https://github.com/iammrduncan/thermite/pull/67) | [![Stars](https://img.shields.io/github/stars/iammrduncan/thermite?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/iammrduncan/thermite/stargazers) | **Calcul des coûts des modèles :** tarification distincte des écritures dans le cache des prompts, collecte des usages de plusieurs environnements d'agents et comptabilisation des enregistrements sans volume d'écriture déclaré. |
+| [EverMind-AI/Raven #1163](https://github.com/EverMind-AI/Raven/pull/1163) | [![Stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/EverMind-AI/Raven/stargazers) | **Fiabilité de la CLI :** ajout d'un délai de 300 secondes, de rappels et d'un nettoyage pour la connexion WhatsApp interactive. |
+| [cognicore-dev/cognicore-env #187](https://github.com/cognicore-dev/cognicore-env/pull/187) | [![Stars](https://img.shields.io/github/stars/cognicore-dev/cognicore-env?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/cognicore-dev/cognicore-env/stargazers) | **Stockage et recherche :** exclusion des souvenirs archivés ou supprimés logiquement des résultats SQLite, avec tests de régression. |
+| [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | [![Stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/EverMind-AI/Raven/stargazers) | **Sécurité de la CLI :** ajout d'une confirmation pour les accès ouverts à tous et amélioration des contrôles du terminal. |
+| [cognicore-dev/cognicore-env #168](https://github.com/cognicore-dev/cognicore-env/pull/168) | [![Stars](https://img.shields.io/github/stars/cognicore-dev/cognicore-env?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/cognicore-dev/cognicore-env/stargazers) | **Documentation :** mise en conformité des tutoriels avec les API existantes et vérification des exemples. |
+| [Feeesack/codex-maid-widget #4](https://github.com/Feeesack/codex-maid-widget/pull/4) | [![Stars](https://img.shields.io/github/stars/Feeesack/codex-maid-widget?style=flat-square&label=%E2%98%85&color=E3B341)](https://github.com/Feeesack/codex-maid-widget/stargazers) | **Maintenance documentaire :** mise à jour des versions prises en charge et des liens associés. |
 
 ---
 
