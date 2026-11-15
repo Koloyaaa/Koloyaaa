@@ -31,7 +31,7 @@
 
 目前也参与与 **Unity、虚拟现实和生成式人工智能** 相关的科研项目。
 
-近期，我将更多精力放在**可跨开发环境复用的 Agent Skills**、工具可靠性与开源贡献上，注重可验证的修复和清晰的文档。
+近期，我的实践集中在 **Agent Skills 编排、智能体工具调用的权限控制与可追踪性，以及模型使用量和成本计量**，通过可验证的代码修复、测试和文档持续参与开源生态。
 
 ---
 
@@ -47,24 +47,24 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Koloyaaa/foreign-academic-translator-skill">
-  <img src="https://raw.githubusercontent.com/Koloyaaa/foreign-academic-translator-skill/main/assets/showcase/thermodynamics-reader-overview.png" width="100%" alt="外文讲义翻译工具展示">
+<a href="https://github.com/Koloyaaa/academic-translation-skills">
+  <img src="https://raw.githubusercontent.com/Koloyaaa/academic-translation-skills/main/assets/showcase/thermodynamics-reader-overview.png" width="100%" alt="外文讲义翻译工具展示">
 </a>
 
-<h3>📚 外文讲义翻译 Skill</h3>
+<h3>📚 Academic Translation Skills · 外文讲义翻译</h3>
 
-<p><img src="https://img.shields.io/badge/版本-V3.1.3-238636?style=flat-square" alt="V3.1.3"></p>
+<p><img src="https://img.shields.io/badge/版本-V4.0.0-238636?style=flat-square" alt="V4.0.0"></p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/智能体技能-6F42C1?style=flat-square" alt="智能体技能">
 </p>
 
-遵循 Agent Skills 标准的外文讲义处理工具，可在多种智能体开发环境中复用。支持七大学科术语表、英法等语言课程材料整理、HTML / DOCX / Markdown 导出，并注重不可信文档内容的安全边界。
+遵循 Agent Skills 标准的学术翻译技能套件，将外文讲义整理成中文学案。V4 提供 Lite、Plus、Pro、Max 四档，涵盖轻量翻译、独立质量审计和多技能编排。支持术语标注、公式与表格、按需测验及 HTML / DOCX / Markdown 导出；Pro、Max 还支持 PPTX 和逐页视觉核对。
 
-<p><sub>🏅 已收录于 <a href="https://github.com/VoltAgent/awesome-agent-skills">VoltAgent / awesome-agent-skills</a> 与 <a href="https://github.com/StudentSuite/awesome-skills-plugins-for-students">StudentSuite / awesome-skills-plugins-for-students</a></sub></p>
+<p><sub>🏅 已收录于 <a href="https://github.com/VoltAgent/awesome-agent-skills">VoltAgent / awesome-agent-skills</a>、<a href="https://github.com/StudentSuite/awesome-skills-plugins-for-students">StudentSuite / awesome-skills-plugins-for-students</a> 和 <a href="https://github.com/yzfly/awesome-skills-zh">yzfly / awesome-skills-zh</a></sub></p>
 
-<p><a href="https://github.com/Koloyaaa/foreign-academic-translator-skill">📖 查看项目 →</a></p>
+<p><a href="https://github.com/Koloyaaa/academic-translation-skills">📖 查看项目 →</a> · <a href="https://github.com/Koloyaaa/academic-translation-skills/releases/tag/v4.0.0">📦 V4.0.0 发布</a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -112,6 +112,8 @@
 
 | 项目 | 已合并的贡献 |
 | --- | --- |
+| [Cygnux-Labs/Tracekit #805](https://github.com/Cygnux-Labs/Tracekit/pull/805) | **智能体工具安全与兼容性：** 适配 Browser Use 1.0，对函数工具及 REPL 执行实施授权校验、追踪与脱敏，并补充兼容性及回归测试。 |
+| [iammrduncan/thermite #67](https://github.com/iammrduncan/thermite/pull/67) | **模型成本计量：** 支持提示词缓存写入的独立定价、跨多种 Agent Harness 的用量采集及未报告写入量的统计。 |
 | [EverMind-AI/Raven #1163](https://github.com/EverMind-AI/Raven/pull/1163) | **命令行可靠性：** 为 WhatsApp 交互登录增加 300 秒超时、过程提示和清理逻辑。 |
 | [cognicore-dev/cognicore-env #187](https://github.com/cognicore-dev/cognicore-env/pull/187) | **存储与检索修复：** 修正 SQLite 搜索返回已归档或软删除记忆的问题，并补充测试。 |
 | [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | **命令行安全：** 为通道通配符开放访问增加确认门禁，并改进终端交互检查。 |
@@ -196,7 +198,7 @@ I enjoy turning ideas into usable products — from requirements analysis and pr
 
 I'm also involved in research projects related to **Unity, virtual reality, and generative AI**.
 
-Recently, I've been focusing more on **portable Agent Skills**, tool reliability, and open-source contributions, with an emphasis on verifiable fixes and clear documentation.
+My recent work focuses on **Agent Skills orchestration, authorization and traceability for agent tool calls, and model usage and cost accounting**, contributing to open source through verifiable fixes, tests, and documentation.
 
 ---
 
@@ -212,24 +214,24 @@ Recently, I've been focusing more on **portable Agent Skills**, tool reliability
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Koloyaaa/foreign-academic-translator-skill">
-  <img src="https://raw.githubusercontent.com/Koloyaaa/foreign-academic-translator-skill/main/assets/showcase/thermodynamics-reader-overview.png" width="100%" alt="Foreign Academic Translator Skill showcase">
+<a href="https://github.com/Koloyaaa/academic-translation-skills">
+  <img src="https://raw.githubusercontent.com/Koloyaaa/academic-translation-skills/main/assets/showcase/thermodynamics-reader-overview.png" width="100%" alt="Foreign Academic Translator Skill showcase">
 </a>
 
-<h3>📚 Foreign Academic Translator Skill</h3>
+<h3>📚 Academic Translation Skills</h3>
 
-<p><img src="https://img.shields.io/badge/Version-V3.1.3-238636?style=flat-square" alt="V3.1.3"></p>
+<p><img src="https://img.shields.io/badge/Version-V4.0.0-238636?style=flat-square" alt="V4.0.0"></p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Agent%20Skills-6F42C1?style=flat-square" alt="Agent Skills">
 </p>
 
-An Agent Skills-compatible tool for turning foreign-language course materials into Chinese study resources across different agent environments. It includes glossaries for seven disciplines, HTML / DOCX / Markdown export, and explicit trust boundaries for untrusted document content.
+An Agent Skills-compatible academic translation suite that turns foreign-language course materials into Chinese study resources. V4 offers four tiers — Lite, Plus, Pro, and Max — spanning lightweight translation, independent quality audits, and multi-skill orchestration. It supports terminology annotations, equations, tables, optional quizzes, and HTML / DOCX / Markdown export; Pro and Max also support PPTX and page-by-page visual review.
 
-<p><sub>🏅 Listed in <a href="https://github.com/VoltAgent/awesome-agent-skills">VoltAgent / awesome-agent-skills</a> and <a href="https://github.com/StudentSuite/awesome-skills-plugins-for-students">StudentSuite / awesome-skills-plugins-for-students</a></sub></p>
+<p><sub>🏅 Listed in <a href="https://github.com/VoltAgent/awesome-agent-skills">VoltAgent / awesome-agent-skills</a>, <a href="https://github.com/StudentSuite/awesome-skills-plugins-for-students">StudentSuite / awesome-skills-plugins-for-students</a>, and <a href="https://github.com/yzfly/awesome-skills-zh">yzfly / awesome-skills-zh</a></sub></p>
 
-<p><a href="https://github.com/Koloyaaa/foreign-academic-translator-skill">📖 View project →</a></p>
+<p><a href="https://github.com/Koloyaaa/academic-translation-skills">📖 View project →</a> · <a href="https://github.com/Koloyaaa/academic-translation-skills/releases/tag/v4.0.0">📦 V4.0.0 release</a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -277,6 +279,8 @@ I contribute bug fixes, security improvements, and documentation updates to open
 
 | Project | Merged contribution |
 | --- | --- |
+| [Cygnux-Labs/Tracekit #805](https://github.com/Cygnux-Labs/Tracekit/pull/805) | **Agent tool security and compatibility:** Adapted Browser Use 1.0, adding authorization, tracing and secret masking for function tools and REPL execution, with compatibility and regression tests. |
+| [iammrduncan/thermite #67](https://github.com/iammrduncan/thermite/pull/67) | **Model cost accounting:** Added separate prompt-cache write pricing, usage collection across agent harnesses, and accounting for records without reported cache writes. |
 | [EverMind-AI/Raven #1163](https://github.com/EverMind-AI/Raven/pull/1163) | **CLI reliability:** Added a 300-second timeout, progress hints, and cleanup for interactive WhatsApp login. |
 | [cognicore-dev/cognicore-env #187](https://github.com/cognicore-dev/cognicore-env/pull/187) | **Storage and retrieval fix:** Prevented archived or soft-deleted memories from appearing in SQLite search, with regression tests. |
 | [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | **CLI security:** Added a confirmation gate for wildcard channel access and improved TTY checks. |
@@ -361,7 +365,7 @@ J'aime transformer des idées en produits réellement utilisables : de l'analyse
 
 Je participe également à des projets de recherche liés à **Unity, à la réalité virtuelle et à l'IA générative**.
 
-Ces derniers temps, je me concentre davantage sur les **Agent Skills réutilisables entre plusieurs environnements**, la fiabilité des outils et les contributions open source, avec une attention particulière aux correctifs vérifiables et à la documentation claire.
+Mes travaux récents portent sur **l'orchestration des Agent Skills, l'autorisation et la traçabilité des appels d'outils par les agents, ainsi que la mesure de l'utilisation et des coûts des modèles**. Je contribue à l'open source par des correctifs vérifiables, des tests et de la documentation.
 
 ---
 
@@ -377,24 +381,24 @@ Ces derniers temps, je me concentre davantage sur les **Agent Skills réutilisab
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Koloyaaa/foreign-academic-translator-skill">
-  <img src="https://raw.githubusercontent.com/Koloyaaa/foreign-academic-translator-skill/main/assets/showcase/thermodynamics-reader-overview.png" width="100%" alt="Présentation de Foreign Academic Translator Skill">
+<a href="https://github.com/Koloyaaa/academic-translation-skills">
+  <img src="https://raw.githubusercontent.com/Koloyaaa/academic-translation-skills/main/assets/showcase/thermodynamics-reader-overview.png" width="100%" alt="Présentation de Foreign Academic Translator Skill">
 </a>
 
-<h3>📚 Foreign Academic Translator Skill</h3>
+<h3>📚 Academic Translation Skills</h3>
 
-<p><img src="https://img.shields.io/badge/Version-V3.1.3-238636?style=flat-square" alt="V3.1.3"></p>
+<p><img src="https://img.shields.io/badge/Version-V4.0.0-238636?style=flat-square" alt="V4.0.0"></p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Agent%20Skills-6F42C1?style=flat-square" alt="Agent Skills">
 </p>
 
-Un outil compatible avec le standard Agent Skills pour transformer des supports de cours en langues étrangères en ressources pédagogiques en chinois. Il comprend des glossaires dans sept disciplines, l'exportation HTML / DOCX / Markdown et des règles explicites pour traiter les documents non fiables.
+Une suite de traduction académique compatible avec le standard Agent Skills, destinée à transformer des supports de cours étrangers en ressources pédagogiques en chinois. La V4 propose quatre niveaux — Lite, Plus, Pro et Max — allant de la traduction légère à l'audit qualité indépendant et à l'orchestration de plusieurs compétences. Elle prend en charge les annotations terminologiques, les formules, les tableaux, les quiz facultatifs et l'export HTML / DOCX / Markdown ; Pro et Max prennent également en charge les PPTX et la vérification visuelle page par page.
 
-<p><sub>🏅 Référencé dans <a href="https://github.com/VoltAgent/awesome-agent-skills">VoltAgent / awesome-agent-skills</a> et <a href="https://github.com/StudentSuite/awesome-skills-plugins-for-students">StudentSuite / awesome-skills-plugins-for-students</a></sub></p>
+<p><sub>🏅 Référencé dans <a href="https://github.com/VoltAgent/awesome-agent-skills">VoltAgent / awesome-agent-skills</a>, <a href="https://github.com/StudentSuite/awesome-skills-plugins-for-students">StudentSuite / awesome-skills-plugins-for-students</a> et <a href="https://github.com/yzfly/awesome-skills-zh">yzfly / awesome-skills-zh</a></sub></p>
 
-<p><a href="https://github.com/Koloyaaa/foreign-academic-translator-skill">📖 Voir le projet →</a></p>
+<p><a href="https://github.com/Koloyaaa/academic-translation-skills">📖 Voir le projet →</a> · <a href="https://github.com/Koloyaaa/academic-translation-skills/releases/tag/v4.0.0">📦 Version V4.0.0</a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -442,6 +446,8 @@ Je contribue à des projets open source par des corrections de bugs, des amélio
 
 | Projet | Contribution fusionnée |
 | --- | --- |
+| [Cygnux-Labs/Tracekit #805](https://github.com/Cygnux-Labs/Tracekit/pull/805) | **Sécurité et compatibilité des outils d'agents :** adaptation à Browser Use 1.0, avec contrôle des autorisations, traçabilité et masquage des secrets pour les outils et le REPL, ainsi que des tests de compatibilité et de régression. |
+| [iammrduncan/thermite #67](https://github.com/iammrduncan/thermite/pull/67) | **Calcul des coûts des modèles :** tarification distincte des écritures dans le cache des prompts, collecte des usages de plusieurs environnements d'agents et comptabilisation des enregistrements sans volume d'écriture déclaré. |
 | [EverMind-AI/Raven #1163](https://github.com/EverMind-AI/Raven/pull/1163) | **Fiabilité de la CLI :** ajout d'un délai de 300 secondes, de rappels et d'un nettoyage pour la connexion WhatsApp interactive. |
 | [cognicore-dev/cognicore-env #187](https://github.com/cognicore-dev/cognicore-env/pull/187) | **Stockage et recherche :** exclusion des souvenirs archivés ou supprimés logiquement des résultats SQLite, avec tests de régression. |
 | [EverMind-AI/Raven #1109](https://github.com/EverMind-AI/Raven/pull/1109) | **Sécurité de la CLI :** ajout d'une confirmation pour les accès ouverts à tous et amélioration des contrôles du terminal. |
