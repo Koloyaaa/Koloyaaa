@@ -144,6 +144,16 @@
   <img src="https://img.shields.io/badge/Trae-2B90D9?style=for-the-badge" alt="Trae">
 </p>
 
+<p align="center">
+  <strong>💬 常用 AI</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" alt="DeepSeek">
+  <img src="https://img.shields.io/badge/Kimi-000000?style=for-the-badge" alt="Kimi">
+</p>
+
 ---
 
 ## 📊 GitHub 数据
@@ -311,6 +321,16 @@ I contribute bug fixes, security improvements, and documentation updates to open
   <img src="https://img.shields.io/badge/Trae-2B90D9?style=for-the-badge" alt="Trae">
 </p>
 
+<p align="center">
+  <strong>💬 Frequently Used AI</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" alt="DeepSeek">
+  <img src="https://img.shields.io/badge/Kimi-000000?style=for-the-badge" alt="Kimi">
+</p>
+
 ---
 
 ## 📊 GitHub Statistics
@@ -476,6 +496,16 @@ Je contribue à des projets open source par des corrections de bugs, des amélio
   <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0969DA?style=for-the-badge" alt="MCP">
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex">
   <img src="https://img.shields.io/badge/Trae-2B90D9?style=for-the-badge" alt="Trae">
+</p>
+
+<p align="center">
+  <strong>💬 IA utilisées régulièrement</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" alt="DeepSeek">
+  <img src="https://img.shields.io/badge/Kimi-000000?style=for-the-badge" alt="Kimi">
 </p>
 
 ---
